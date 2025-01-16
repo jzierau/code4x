@@ -1,0 +1,31 @@
+{
+  "author": "Jeremy Zierau",
+  "bugs": {
+    "url": "https://github.com/iiio-co/ui/issues"
+  },
+  "dependencies": {
+    "express": "*"
+  },
+  "devDependencies": {
+    "nodemon": "*"
+  },
+  "directories": {
+    "css": "css"
+  },
+  "description": "iiio",
+  "homepage": "https://iiio.co",
+  "keywords": [
+    "iiio"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "iiio-ui",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiio-co/ui.git"
+  },
+  "scripts": {
+    "start": "nodemon  ."
+  },
+  "version": "0.0.1"
+}
